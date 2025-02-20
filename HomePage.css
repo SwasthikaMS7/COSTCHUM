@@ -1,0 +1,43 @@
+home-container {
+    padding: 15px;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    font-size: 50px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 30px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.homepage-image {
+    width: 240px;
+    height: 240px;
+    
+    margin-left: 1200px;
+    bottom: 150%;
+    align-items: right;
+  }
+  p{
+    margin-top: 0px;
+    margin:40px;
+    padding:10px;
+    font-size: 18px;
+    text-align: justify;
+  }
